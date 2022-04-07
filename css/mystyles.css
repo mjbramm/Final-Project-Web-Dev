@@ -1,0 +1,17 @@
+/* This will be applied to about and index pages*/
+
+h1{
+    font-family: Impact, Haettenschweiler, sans-serif;
+}
+
+.intro{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+li{
+    padding-bottom: 10px;
+}
+
+.paddingspace{
+    padding-bottom: 20px;
+}
